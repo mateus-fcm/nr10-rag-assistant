@@ -1,0 +1,12 @@
+chromadb
+Flask
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-ollama
+langchain-text-splitters
+numpy
+python-dotenv
+rank-bm25
+sentence-transformers

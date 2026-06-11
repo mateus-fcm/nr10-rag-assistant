@@ -1,0 +1,23 @@
+# Documento demonstrativo ficticio para o nr10-rag-assistant
+
+Este arquivo e um exemplo publico e sintetico. Ele nao reproduz a NR10 oficial e nao deve ser usado como referencia normativa.
+
+## Objetivo e aplicacao
+
+O programa demonstrativo considera que atividades em instalacoes eletricas devem ser planejadas, documentadas e executadas por pessoas capacitadas conforme o nivel de risco da tarefa.
+
+## Medidas de controle
+
+Antes de uma intervencao, a equipe deve avaliar riscos eletricos, selecionar medidas de controle, registrar procedimentos aplicaveis e confirmar que equipamentos de protecao estao disponiveis.
+
+## Desenergizacao
+
+Uma atividade demonstrativa em circuito desenergizado deve considerar seccionamento, impedimento de reenergizacao, constatacao de ausencia de tensao e sinalizacao do local de trabalho.
+
+## Trabalho em proximidade
+
+Quando houver possibilidade de aproximacao de partes energizadas, o planejamento deve definir limites, barreiras, supervisao e autorizacao compativel com a tarefa.
+
+## Profissional autorizado
+
+Neste exemplo, profissional autorizado e a pessoa formalmente indicada pela organizacao para executar atividades eletricas especificas, depois de treinamento, avaliacao e conhecimento dos procedimentos internos.
